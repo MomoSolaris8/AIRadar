@@ -16,7 +16,7 @@ dependencies = [
 requires-dist = [
     { name = "feedparser", specifier = ">=6.0.12" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
-    { name = "requests", specifier = ">=2.34.2" },
+    { name = "requests", specifier = ">=2.32.0" },
 ]
 
 [[package]]
